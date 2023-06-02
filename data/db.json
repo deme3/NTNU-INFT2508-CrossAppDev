@@ -1,0 +1,120 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "title": "Subway Deal",
+      "shortdesc": "En hel meny for kun 69 kroner!",
+      "description": "En hel meny for kun 69 kroner! Du får du en premium 6 inch sub med mør kylling, sprøstekt bacon og BBQ dressing! Inkludert 0,5l brus og valget mellom Cookie, Chips eller Pop dots til dessert. AIEOFJA OIFDAO IDFJADOIFJ ADOIJF IOADJFOJAIDF OIADJF OIADFJ OADIFJ ADIOFJDAIFIADJFOAID OFADIOFJADIOFJADIOFJIADOJFD OJADFJ ADIF OADFJ OADI JFDAOIJ JDAFIOJ ADIFJ OIADFJAID FADOJFIAODJFIAOD JDAFOI DAIJ  AIFJADOFI DFIOJ DIJOF OSIDFJO ADJIAOFJASIO JFDIOSAJ DFJNNFSDJFN DSJF NKSDN FKJSDN FDJKSF NKJSDF NSDKJF NJKSDFN JKSDNF JKSDNF JKSDNF KDSNFJKDS NFKDSN FJKDSN FKDSN FJKDSN FKJDSN FKJSDNF NKSDNF KDSN FKJFDSN FJKDSN FJKDSN JKJDSFN KJDSN FJKDSNF JKDNFKJSNDF KJND KJNSJ KFSDKJ NFDSJKN FKDSN FKDNJS KJDSNF JKSDJNK sD OSAIDJAOSJIAJOIDJOIDJSDJOI SJJ FO",
+      "category": "food",
+      "location": {
+        "latitude": 63.41,
+        "longitude": 10.398
+      },
+      "price": 69
+    },
+    {
+      "id": 2,
+      "title": "Subway SUPERDEAL!",
+      "shortdesc": "This is a superdeal.",
+      "description": "En hel meny for kun 69 kroner! Du får du en premium 6 inch sub med mør kylling, sprøstekt bacon og BBQ dressing! Inkludert 0,5l brus og valget mellom Cookie, Chips eller Pop dots til dessert.",
+      "category": "food",
+      "location": {
+        "latitude": 63.415,
+        "longitude": 10.396
+      },
+      "price": 69
+    },
+    {
+      "id": 3,
+      "title": "Subway Deal",
+      "shortdesc": "This is a deal.",
+      "description": "En hel meny for kun 69 kroner! Du får du en premium 6 inch sub med mør kylling, sprøstekt bacon og BBQ dressing! Inkludert 0,5l brus og valget mellom Cookie, Chips eller Pop dots til dessert.",
+      "category": "food",
+      "location": {
+        "latitude": 63.418,
+        "longitude": 10.399
+      },
+      "price": 69,
+      "phone": "+39 375 578 2166"
+    },
+    {
+      "id": 4,
+      "title": "Subway SUPERDEAL!",
+      "shortdesc": "This is a superdeal.",
+      "description": "En hel meny for kun 69 kroner! Du får du en premium 6 inch sub med mør kylling, sprøstekt bacon og BBQ dressing! Inkludert 0,5l brus og valget mellom Cookie, Chips eller Pop dots til dessert.",
+      "category": "food",
+      "location": {
+        "latitude": 63.41,
+        "longitude": 10.38
+      },
+      "price": 69,
+      "website": "https://www.deme3.me/",
+      "phone": "+47 77 77 22 11"
+    },
+    {
+      "id": 5,
+      "title": "Subway Deal",
+      "shortdesc": "This is a deal.",
+      "description": "En hel meny for kun 69 kroner! Du får du en premium 6 inch sub med mør kylling, sprøstekt bacon og BBQ dressing! Inkludert 0,5l brus og valget mellom Cookie, Chips eller Pop dots til dessert.",
+      "category": "food",
+      "location": {
+        "latitude": 63.43,
+        "longitude": 10.4
+      },
+      "price": 69
+    },
+    {
+      "id": 6,
+      "title": "Get a massage",
+      "shortdesc": "Your back is sore after all those hours spent programming a mock mobile app? Get a massage for only 30 000 NOK (less than you paid your maxed up Mac anyways)",
+      "category": "wellbeing",
+      "location": {
+        "latitude": 63.42,
+        "longitude": 10.39
+      },
+      "images": 4,
+      "price": 30000
+    },
+    {
+      "id": 7,
+      "title": "Subway Deal",
+      "shortdesc": "En hel meny for kun 69 kroner! Du får du en premium 6 inch sub med mør kylling, sprøstekt bacon og BBQ dressing! Inkludert 0,5l brus og valget mellom Cookie, Chips eller Pop dots til dessert.",
+      "category": "food",
+      "location": {
+        "latitude": 63.4,
+        "longitude": 10.378
+      },
+      "price": 69
+    },
+    {
+      "id": 8,
+      "title": "Subway Deal",
+      "shortdesc": "En hel meny for kun 69 kroner! Du får du en premium 6 inch sub med mør kylling, sprøstekt bacon og BBQ dressing! Inkludert 0,5l brus og valget mellom Cookie, Chips eller Pop dots til dessert.",
+      "category": "food",
+      "location": {
+        "latitude": 63.43,
+        "longitude": 10.388
+      },
+      "price": 69
+    },
+    {
+      "id": 9,
+      "title": "Subway Deal",
+      "shortdesc": "En hel meny for kun 69 kroner! Du får du en premium 6 inch sub med mør kylling, sprøstekt bacon og BBQ dressing! Inkludert 0,5l brus og valget mellom Cookie, Chips eller Pop dots til dessert.",
+      "category": "food",
+      "location": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "price": 69
+    }
+  ],
+  "favs": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    }
+  ]
+}

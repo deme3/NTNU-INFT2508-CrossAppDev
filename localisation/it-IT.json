@@ -1,0 +1,61 @@
+{
+  "settings": {
+    "title": "Impostazioni",
+    "darkmode": {
+      "title": "Modalità scura",
+      "explanation": {
+        "off": "Attiva per attivare la modalità scura",
+        "on": "Disattiva per passare alla modalità chiara"
+      }
+    },
+    "locale": {
+      "title": "Lingua",
+      "system": "Usa lingua di sistema",
+      "en": "Inglese",
+      "it": "Italiano",
+      "nb": "Norvegese (Bokmål)",
+      "noSystem": {
+        "title": "Ignora lingua di sistema",
+        "explanation": ""
+      }
+    },
+    "buyauth": {
+      "title": "Autorizzazione",
+      "none": "Nessuna",
+      "touchid": "Usa Touch ID",
+      "faceid": "Usa Face ID"
+    }
+  },
+  "favourites": {
+    "title": "Preferiti"
+  },
+  "map": {
+    "title": "Mappa"
+  },
+  "home": {
+    "title": "Home",
+    "search": { "placeholder": "Cerca" },
+    "categories": {
+      "title": "Filtra per categoria",
+      "food": "Cibo",
+      "wellbeing": "Wellbeing"
+    }
+  },
+  "details": {
+    "gotomap": "Mappa",
+    "website": "Sito web",
+    "buy": {
+      "text": "Compra",
+      "fail": {
+        "title": "Acquisto fallito",
+        "message": "Il tuo metodo di autorizzazione non ha confermato la tua identità."
+      },
+      "success": {
+        "title": "Acquisto completato",
+        "message": "La transazione è stata completata con successo."
+      },
+      "touchidprompt": "Poggia il dito per autorizzare l'acquisto",
+      "faceidprompt": "Usa il volto per autorizzare l'acquisto"
+    }
+  }
+}

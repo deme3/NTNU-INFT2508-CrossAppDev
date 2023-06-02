@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "title": "Settings",
+    "darkmode": {
+      "title": "Dark Mode",
+      "explanation": {
+        "off": "Activate to enable dark mode",
+        "on": "Deactivate to switch to light mode"
+      }
+    },
+    "locale": {
+      "title": "Language",
+      "system": "Use system language",
+      "en": "English",
+      "it": "Italian",
+      "nb": "Norwegian Bokmål"
+    },
+    "buyauth": {
+      "title": "Authorisation",
+      "none": "None",
+      "touchid": "Use Touch ID",
+      "faceid": "Use Face ID"
+    }
+  },
+  "favourites": {
+    "title": "My Favourites"
+  },
+  "map": {
+    "title": "Map"
+  },
+  "home": {
+    "title": "Home",
+    "search": { "placeholder": "Search" },
+    "categories": {
+      "title": "Filter by category",
+      "food": "Food",
+      "wellbeing": "Wellbeing"
+    }
+  },
+  "details": {
+    "gotomap": "Map",
+    "website": "Website",
+    "buy": {
+      "text": "Buy",
+      "fail": {
+        "title": "Purchase failed",
+        "message": "Your authorisation method did not confirm your identity."
+      },
+      "success": {
+        "title": "Purchase completed",
+        "message": "Transaction authorised: purchase completed."
+      }
+    }
+  }
+}

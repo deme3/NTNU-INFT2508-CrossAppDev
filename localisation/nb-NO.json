@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "title": "Innstillinger",
+    "darkmode": {
+      "title": "Mørk Modus",
+      "explanation": {
+        "off": "Aktiver for å aktivere mørkmodus",
+        "on": "Deaktiver for å bytte til lysmodus"
+      }
+    },
+    "locale": {
+      "title": "Språk",
+      "system": "Use system language",
+      "en": "Engelsk",
+      "it": "Italiensk",
+      "nb": "Norsk Bokmål"
+    },
+    "buyauth": {
+      "title": "Authorisation",
+      "none": "None",
+      "touchid": "Use Touch ID",
+      "faceid": "Use Face ID"
+    }
+  },
+  "favourites": {
+    "title": "Favoritter"
+  },
+  "map": {
+    "title": "Kart"
+  },
+  "home": {
+    "title": "Hjem",
+    "search": { "placeholder": "Søk" },
+    "categories": {
+      "title": "Filtrer etter kategori",
+      "food": "Mat",
+      "wellbeing": "Helse"
+    }
+  },
+  "details": {
+    "gotomap": "Kart",
+    "website": "Nettsted",
+    "buy": {
+      "text": "Kjøp",
+      "fail": {
+        "title": "Purchase failed",
+        "message": "Your authorisation method did not confirm your identity."
+      },
+      "success": {
+        "title": "Purchase completed",
+        "message": "Transaction authorised: purchase completed."
+      }
+    }
+  }
+}
